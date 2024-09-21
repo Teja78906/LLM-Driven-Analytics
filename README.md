@@ -1,4 +1,4 @@
-# Kaggle Data Insights with LLM
+# Data Insights with LLM
 
 This project is a simple **chat-based interface** built using **Dash** and **Groq LLM**. The application allows users to ask questions about the Kaggle dataset and receive intelligent responses by leveraging Large Language Models (LLMs).
 
